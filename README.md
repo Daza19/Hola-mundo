@@ -13,7 +13,7 @@ El proyecto que hemos decido realizar es una pagina web para ordenar el proceso 
 donde se registren los carros que ingresan y las solicitudes.
 
 Se ha pensado en realizar un sistema web bajo los siguientes lenguajes de programación:
-PHP
+PHP 
 JavaScript
 
 
