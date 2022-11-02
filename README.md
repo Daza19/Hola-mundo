@@ -16,3 +16,6 @@ Los integrantes de este proyecto son los siguientes.
 
 ¿Por qué seleccionaron ese tipo de proyecto de software?
 
+El proyecto de software que utilizaremos surge de un problema que vemos muy 
+común en muchos lavados de autos  que actualmente carecen de un software que  
+permita procesar los pedidos y mejorar su automatización.
