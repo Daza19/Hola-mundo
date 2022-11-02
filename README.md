@@ -10,7 +10,7 @@ Los integrantes de este proyecto son los siguientes.
 ¿Qué proyecto de software realizarán para el Módulo y bajo qué lenguaje de programación?
 
 El proyecto que hemos decido realizar es una pagina web para ordenar el proceso de un lavadero de carros, 
-donde se registren los carros que ingresan y las solicitudes.
+donde se registren los carros que ingresan sus las solicitudes.
 
 Se ha pensado en realizar un sistema web bajo los siguientes lenguajes de programación:
 PHP 
